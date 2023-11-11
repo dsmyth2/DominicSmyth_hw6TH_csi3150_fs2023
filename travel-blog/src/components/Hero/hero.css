@@ -1,4 +1,5 @@
 .hero {
   background-image: url(../../Assets/HeroSection-bg-image.jpg);
   background-size: cover;
+  background-position-y: bottom;
 }
